@@ -1,7 +1,7 @@
 
-## Build a basic Web version of PayTM
+# Build a basic Web version of PayTM
 
-# user should able to
+## user should able to
 - signup
 - signin
 - check balance
